@@ -41,7 +41,7 @@ const App = () => {
 
   return (
     <View>
-      <Text>Push Notification</Text>
+      <Text>This is a tribute to Firebase Checking Purpose Push Notification</Text>
     </View>
   );
 
